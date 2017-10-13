@@ -20,6 +20,7 @@ namespace web.Controllers
 
         public AccountController()
         {
+            //add core more more
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
