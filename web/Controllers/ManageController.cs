@@ -18,6 +18,7 @@ namespace web.Controllers
 
         public ManageController()
         {
+            //thahth
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)

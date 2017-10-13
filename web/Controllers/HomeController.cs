@@ -12,6 +12,9 @@ namespace web.Controllers
         {
             return View();
             //gio do ma ta
+            //hihihi
+            //hahahah;
+            //ecccc
         }
 
         public ActionResult About()
