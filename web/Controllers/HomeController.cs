@@ -11,6 +11,7 @@ namespace web.Controllers
         public ActionResult Index()
         {
             return View();
+            //gio do ma ta
         }
 
         public ActionResult About()
